@@ -1,0 +1,2 @@
+insert into student (id, email, first_name, last_name) values (null, 'email1', 'name1', 'lastname1');
+insert into student (id, email, first_name, last_name) values (null, 'email2', 'name2', 'lastname2');
